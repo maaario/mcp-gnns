@@ -1,0 +1,47 @@
+{
+  "absolute_metrics": true,
+  "batch_size": 8,
+  "data_dir": "/home/mario/master-thesis/data/generated/small_dimacs_bhoslib_no_hamming",
+  "device": {
+    "py/reduce": [
+      {
+        "py/type": "torch.device"
+      },
+      {
+        "py/tuple": [
+          "cuda"
+        ]
+      },
+      null,
+      null,
+      null
+    ]
+  },
+  "embeddings": false,
+  "evaluate_on_full": false,
+  "max_epochs": 200,
+  "model": "s2v2",
+  "model_hparams": {
+    "conv_layers": 4,
+    "embedding_dim": 64,
+    "full_initialization": false,
+    "hidden_dim": 64,
+    "hidden_layers": 4,
+    "nonlinearity": "leaky_relu",
+    "output_type": "linear"
+  },
+  "output_dir": "outputs/all",
+  "predictions": false,
+  "seed": 945375187,
+  "tag": "rank",
+  "train": true,
+  "trained_model_dir": null,
+  "trainer_hparams": {
+    "early_stopping_patience": 10,
+    "learning_rate": 0.001,
+    "lr_reduce_factor": 0.2,
+    "lr_reduce_patience": 5,
+    "rank_loss": true
+  },
+  "transform_y": "none"
+}

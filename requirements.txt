@@ -1,0 +1,26 @@
+# General data manipulation
+numpy
+scipy
+networkx
+pandas
+
+# Pytorch geometric
+wheel
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+torch-geometric
+
+# Training and evaluation infrastructure
+pytorch-ignite
+sacred
+gitpython
+
+# Utilities
+tqdm
+
+# Analysis
+jupyterlab
+seaborn
+sklearn

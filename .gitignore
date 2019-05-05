@@ -1,0 +1,21 @@
+# Downloaded content
+generator/third_party/
+maxclique/cxxopts.hpp
+env/
+
+# Generated content 
+data/
+experiments/*/outputs
+maxclique/metrics
+maxclique/main_clique_for_each_vertex
+maxclique/main_maxclique
+temp_input_graph.in
+temp_clique_sizes.out
+
+# Temporary / editors
+setup.cfg
+.ipynb_checkpoints
+*.pyc
+.vscode/
+*.egg-info
+__pycache__

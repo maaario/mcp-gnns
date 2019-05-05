@@ -1,0 +1,982 @@
+
+ITERATION - loss: 0.00:   0%|          | 0/13 [00:00<?, ?it/s]
+ITERATION - loss: 0.00:   0%|          | 0/13 [00:00<?, ?it/s]
+                                                              
+
+Training Results - Epoch: 0 Metrics: mse: 18.656, mae: 3.680, top1: 0.920, frac_mc: 0.841, loss: 0.193
+
+ITERATION - loss: 0.00:   0%|          | 0/13 [00:00<?, ?it/s]
+                                                              
+
+Validation Results - Epoch: 0 Metrics: mse: 20.133, mae: 3.766, top1: 0.890, frac_mc: 0.840, loss: 0.196
+
+ITERATION - loss: 0.00:   0%|          | 0/13 [00:00<?, ?it/s]
+ITERATION - loss: 0.19:   8%|7         | 1/13 [00:00<00:10,  1.11it/s]
+ITERATION - loss: 0.04:  46%|####6     | 6/13 [00:01<00:04,  1.57it/s]
+ITERATION - loss: 0.03:  85%|########4 | 11/13 [00:01<00:00,  2.21it/s]
+ITERATION - loss: 0.04: 100%|##########| 13/13 [00:01<00:00,  2.21it/s]
+                                                                       
+
+Training Results - Epoch: 1 Metrics: mse: 2.665, mae: 0.714, top1: 0.858, frac_mc: 0.801, loss: 0.028
+
+ITERATION - loss: 0.04:   0%|          | 0/13 [00:01<00:05,  2.21it/s]
+                                                                      
+
+Validation Results - Epoch: 1 Metrics: mse: 2.212, mae: 0.641, top1: 0.880, frac_mc: 0.837, loss: 0.025
+
+ITERATION - loss: 0.04:   0%|          | 0/13 [00:02<00:05,  2.21it/s]
+ITERATION - loss: 0.03:  23%|##3       | 3/13 [00:02<00:04,  2.41it/s]
+ITERATION - loss: 0.20:  62%|######1   | 8/13 [00:02<00:01,  3.37it/s]
+ITERATION - loss: 0.03: 100%|##########| 13/13 [00:02<00:00,  3.37it/s]
+                                                                       
+
+Training Results - Epoch: 2 Metrics: mse: 2.453, mae: 0.694, top1: 0.932, frac_mc: 0.852, loss: 0.025
+
+ITERATION - loss: 0.03:   0%|          | 0/13 [00:02<00:03,  3.37it/s]
+                                                                      
+
+Validation Results - Epoch: 2 Metrics: mse: 1.865, mae: 0.597, top1: 0.930, frac_mc: 0.870, loss: 0.021
+
+ITERATION - loss: 0.03:   0%|          | 0/13 [00:03<00:03,  3.37it/s]
+ITERATION - loss: 0.02:  23%|##3       | 3/13 [00:03<00:03,  3.21it/s]
+ITERATION - loss: 0.03:  69%|######9   | 9/13 [00:03<00:00,  4.47it/s]
+ITERATION - loss: 0.03: 100%|##########| 13/13 [00:03<00:00,  4.47it/s]
+                                                                       
+
+Training Results - Epoch: 3 Metrics: mse: 2.718, mae: 0.719, top1: 0.750, frac_mc: 0.751, loss: 0.028
+
+ITERATION - loss: 0.03:   0%|          | 0/13 [00:04<00:02,  4.47it/s]
+                                                                      
+
+Validation Results - Epoch: 3 Metrics: mse: 2.315, mae: 0.650, top1: 0.760, frac_mc: 0.775, loss: 0.026
+
+ITERATION - loss: 0.03:   0%|          | 0/13 [00:04<00:02,  4.47it/s]
+ITERATION - loss: 0.03:  23%|##3       | 3/13 [00:04<00:02,  3.86it/s]
+ITERATION - loss: 0.02:  62%|######1   | 8/13 [00:04<00:00,  5.34it/s]
+ITERATION - loss: 0.03: 100%|##########| 13/13 [00:04<00:00,  5.34it/s]
+                                                                       
+
+Training Results - Epoch: 4 Metrics: mse: 32.014, mae: 4.653, top1: 0.152, frac_mc: 0.506, loss: 0.286
+
+ITERATION - loss: 0.03:   0%|          | 0/13 [00:05<00:02,  5.34it/s]
+                                                                      
+
+Validation Results - Epoch: 4 Metrics: mse: 35.596, mae: 4.798, top1: 0.220, frac_mc: 0.547, loss: 0.291
+
+ITERATION - loss: 0.03:   0%|          | 0/13 [00:05<00:02,  5.34it/s]
+ITERATION - loss: 0.02:  23%|##3       | 3/13 [00:05<00:02,  4.26it/s]
+ITERATION - loss: 0.02:  62%|######1   | 8/13 [00:05<00:00,  5.87it/s]
+ITERATION - loss: 0.03: 100%|##########| 13/13 [00:05<00:00,  5.87it/s]
+                                                                       
+
+Training Results - Epoch: 5 Metrics: mse: 1.913, mae: 0.680, top1: 0.990, frac_mc: 0.887, loss: 0.019
+
+ITERATION - loss: 0.03:   0%|          | 0/13 [00:06<00:02,  5.87it/s]
+                                                                      
+
+Validation Results - Epoch: 5 Metrics: mse: 1.420, mae: 0.584, top1: 0.980, frac_mc: 0.899, loss: 0.015
+
+ITERATION - loss: 0.03:   0%|          | 0/13 [00:06<00:02,  5.87it/s]
+ITERATION - loss: 0.02:  31%|###       | 4/13 [00:06<00:01,  5.03it/s]
+ITERATION - loss: 0.02:  69%|######9   | 9/13 [00:06<00:00,  6.89it/s]
+ITERATION - loss: 0.02: 100%|##########| 13/13 [00:06<00:00,  6.89it/s]
+                                                                       
+
+Training Results - Epoch: 6 Metrics: mse: 1.949, mae: 0.677, top1: 0.990, frac_mc: 0.887, loss: 0.019
+
+ITERATION - loss: 0.02:   0%|          | 0/13 [00:07<00:01,  6.89it/s]
+                                                                      
+
+Validation Results - Epoch: 6 Metrics: mse: 1.462, mae: 0.585, top1: 0.980, frac_mc: 0.899, loss: 0.015
+
+ITERATION - loss: 0.02:   0%|          | 0/13 [00:07<00:01,  6.89it/s]
+ITERATION - loss: 0.02:  31%|###       | 4/13 [00:07<00:01,  5.55it/s]
+ITERATION - loss: 0.02:  69%|######9   | 9/13 [00:07<00:00,  7.56it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:07<00:00,  7.56it/s]
+                                                                       
+
+Training Results - Epoch: 7 Metrics: mse: 1.521, mae: 0.756, top1: 0.990, frac_mc: 0.886, loss: 0.020
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:08<00:01,  7.56it/s]
+                                                                      
+
+Validation Results - Epoch: 7 Metrics: mse: 1.224, mae: 0.691, top1: 0.980, frac_mc: 0.895, loss: 0.017
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:08<00:01,  7.56it/s]
+ITERATION - loss: 0.02:  31%|###       | 4/13 [00:08<00:01,  5.85it/s]
+ITERATION - loss: 0.02:  69%|######9   | 9/13 [00:09<00:00,  7.95it/s]
+ITERATION - loss: 0.03: 100%|##########| 13/13 [00:09<00:00,  7.95it/s]
+                                                                       
+
+Training Results - Epoch: 8 Metrics: mse: 1.432, mae: 0.760, top1: 0.993, frac_mc: 0.886, loss: 0.018
+
+ITERATION - loss: 0.03:   0%|          | 0/13 [00:09<00:01,  7.95it/s]
+                                                                      
+
+Validation Results - Epoch: 8 Metrics: mse: 1.156, mae: 0.700, top1: 0.980, frac_mc: 0.894, loss: 0.016
+
+ITERATION - loss: 0.03:   0%|          | 0/13 [00:10<00:01,  7.95it/s]
+ITERATION - loss: 0.02:  31%|###       | 4/13 [00:10<00:01,  5.96it/s]
+ITERATION - loss: 0.02:  69%|######9   | 9/13 [00:10<00:00,  8.09it/s]
+ITERATION - loss: 0.02: 100%|##########| 13/13 [00:10<00:00,  8.09it/s]
+                                                                       
+
+Training Results - Epoch: 9 Metrics: mse: 1.967, mae: 0.674, top1: 0.993, frac_mc: 0.886, loss: 0.019
+
+ITERATION - loss: 0.02:   0%|          | 0/13 [00:11<00:01,  8.09it/s]
+                                                                      
+
+Validation Results - Epoch: 9 Metrics: mse: 1.523, mae: 0.591, top1: 0.980, frac_mc: 0.894, loss: 0.015
+
+ITERATION - loss: 0.02:   0%|          | 0/13 [00:11<00:01,  8.09it/s]
+ITERATION - loss: 0.02:  31%|###       | 4/13 [00:11<00:01,  6.08it/s]
+ITERATION - loss: 0.03:  69%|######9   | 9/13 [00:11<00:00,  8.25it/s]
+ITERATION - loss: 0.03: 100%|##########| 13/13 [00:11<00:00,  8.25it/s]
+                                                                       
+
+Training Results - Epoch: 10 Metrics: mse: 2.284, mae: 0.684, top1: 0.993, frac_mc: 0.885, loss: 0.023
+
+ITERATION - loss: 0.03:   0%|          | 0/13 [00:12<00:01,  8.25it/s]
+                                                                      
+
+Validation Results - Epoch: 10 Metrics: mse: 1.793, mae: 0.598, top1: 0.980, frac_mc: 0.894, loss: 0.019
+
+ITERATION - loss: 0.03:   0%|          | 0/13 [00:12<00:01,  8.25it/s]
+ITERATION - loss: 0.02:  31%|###       | 4/13 [00:12<00:01,  6.13it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:12<00:00,  8.32it/s]
+ITERATION - loss: 0.02: 100%|##########| 13/13 [00:12<00:00,  8.32it/s]
+                                                                       
+
+Training Results - Epoch: 11 Metrics: mse: 2.037, mae: 0.673, top1: 0.993, frac_mc: 0.886, loss: 0.020
+
+ITERATION - loss: 0.02:   0%|          | 0/13 [00:13<00:01,  8.32it/s]
+                                                                      
+
+Validation Results - Epoch: 11 Metrics: mse: 1.575, mae: 0.587, top1: 0.980, frac_mc: 0.894, loss: 0.016
+
+ITERATION - loss: 0.02:   0%|          | 0/13 [00:13<00:01,  8.32it/s]
+ITERATION - loss: 0.02:  31%|###       | 4/13 [00:13<00:01,  6.16it/s]
+ITERATION - loss: 0.02:  69%|######9   | 9/13 [00:13<00:00,  8.35it/s]
+ITERATION - loss: 0.02: 100%|##########| 13/13 [00:13<00:00,  8.35it/s]
+                                                                       
+
+Training Results - Epoch: 12 Metrics: mse: 1.522, mae: 0.703, top1: 0.993, frac_mc: 0.886, loss: 0.017
+
+ITERATION - loss: 0.02:   0%|          | 0/13 [00:14<00:01,  8.35it/s]
+                                                                      
+
+Validation Results - Epoch: 12 Metrics: mse: 1.190, mae: 0.634, top1: 0.980, frac_mc: 0.894, loss: 0.014
+
+ITERATION - loss: 0.02:   0%|          | 0/13 [00:14<00:01,  8.35it/s]
+ITERATION - loss: 0.02:  31%|###       | 4/13 [00:14<00:01,  6.17it/s]
+ITERATION - loss: 0.02:  69%|######9   | 9/13 [00:14<00:00,  8.37it/s]
+ITERATION - loss: 0.02: 100%|##########| 13/13 [00:14<00:00,  8.37it/s]
+                                                                       
+
+Training Results - Epoch: 13 Metrics: mse: 1.505, mae: 0.704, top1: 0.993, frac_mc: 0.885, loss: 0.016
+
+ITERATION - loss: 0.02:   0%|          | 0/13 [00:15<00:01,  8.37it/s]
+                                                                      
+
+Validation Results - Epoch: 13 Metrics: mse: 1.179, mae: 0.636, top1: 0.980, frac_mc: 0.895, loss: 0.014
+
+ITERATION - loss: 0.02:   0%|          | 0/13 [00:15<00:01,  8.37it/s]
+ITERATION - loss: 0.02:  31%|###       | 4/13 [00:15<00:01,  6.19it/s]
+ITERATION - loss: 0.02:  77%|#######6  | 10/13 [00:15<00:00,  8.40it/s]
+ITERATION - loss: 0.02: 100%|##########| 13/13 [00:16<00:00,  8.40it/s]
+                                                                       
+
+ITERATION - loss: 0.02:   0%|          | 0/13 [00:16<00:01,  8.40it/s]
+Training Results - Epoch: 14 Metrics: mse: 1.561, mae: 0.692, top1: 0.990, frac_mc: 0.885, loss: 0.016
+
+                                                                      
+
+Validation Results - Epoch: 14 Metrics: mse: 1.219, mae: 0.622, top1: 0.980, frac_mc: 0.895, loss: 0.013
+
+ITERATION - loss: 0.02:   0%|          | 0/13 [00:16<00:01,  8.40it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:16<00:01,  6.25it/s]
+ITERATION - loss: 0.02:  69%|######9   | 9/13 [00:17<00:00,  8.48it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:17<00:00,  8.48it/s]
+                                                                       
+
+Training Results - Epoch: 15 Metrics: mse: 1.365, mae: 0.761, top1: 0.990, frac_mc: 0.886, loss: 0.015
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:17<00:01,  8.48it/s]
+                                                                      
+
+Validation Results - Epoch: 15 Metrics: mse: 1.089, mae: 0.708, top1: 0.980, frac_mc: 0.895, loss: 0.013
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:18<00:01,  8.48it/s]
+ITERATION - loss: 0.02:  31%|###       | 4/13 [00:18<00:01,  6.22it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:18<00:00,  8.43it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:18<00:00,  8.43it/s]
+                                                                       
+
+Training Results - Epoch: 16 Metrics: mse: 1.446, mae: 0.723, top1: 0.990, frac_mc: 0.885, loss: 0.015
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:19<00:01,  8.43it/s]
+                                                                      
+
+Validation Results - Epoch: 16 Metrics: mse: 1.143, mae: 0.666, top1: 0.980, frac_mc: 0.895, loss: 0.013
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:19<00:01,  8.43it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:19<00:01,  6.21it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:19<00:00,  8.42it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:19<00:00,  8.42it/s]
+                                                                       
+
+Training Results - Epoch: 17 Metrics: mse: 1.209, mae: 0.753, top1: 0.985, frac_mc: 0.885, loss: 0.014
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:20<00:01,  8.42it/s]
+                                                                      
+
+Validation Results - Epoch: 17 Metrics: mse: 1.016, mae: 0.706, top1: 0.980, frac_mc: 0.893, loss: 0.013
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:20<00:01,  8.42it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:20<00:01,  6.13it/s]
+ITERATION - loss: 0.02:  77%|#######6  | 10/13 [00:20<00:00,  8.32it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:20<00:00,  8.32it/s]
+                                                                       
+
+Training Results - Epoch: 18 Metrics: mse: 1.282, mae: 0.730, top1: 0.985, frac_mc: 0.885, loss: 0.014
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:21<00:01,  8.32it/s]
+                                                                      
+
+Validation Results - Epoch: 18 Metrics: mse: 1.036, mae: 0.675, top1: 0.980, frac_mc: 0.895, loss: 0.012
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:21<00:01,  8.32it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:21<00:01,  6.24it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:21<00:00,  8.46it/s]
+ITERATION - loss: 0.02: 100%|##########| 13/13 [00:21<00:00,  8.46it/s]
+                                                                       
+
+Training Results - Epoch: 19 Metrics: mse: 1.567, mae: 0.659, top1: 0.988, frac_mc: 0.886, loss: 0.016
+
+ITERATION - loss: 0.02:   0%|          | 0/13 [00:22<00:01,  8.46it/s]
+                                                                      
+
+Validation Results - Epoch: 19 Metrics: mse: 1.268, mae: 0.595, top1: 0.980, frac_mc: 0.897, loss: 0.013
+
+ITERATION - loss: 0.02:   0%|          | 0/13 [00:22<00:01,  8.46it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:22<00:01,  6.22it/s]
+ITERATION - loss: 0.02:  69%|######9   | 9/13 [00:22<00:00,  8.43it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:22<00:00,  8.43it/s]
+                                                                       
+
+Training Results - Epoch: 20 Metrics: mse: 1.247, mae: 0.703, top1: 0.988, frac_mc: 0.885, loss: 0.014
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:23<00:01,  8.43it/s]
+                                                                      
+
+Validation Results - Epoch: 20 Metrics: mse: 0.994, mae: 0.646, top1: 0.980, frac_mc: 0.896, loss: 0.012
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:23<00:01,  8.43it/s]
+ITERATION - loss: 0.02:  31%|###       | 4/13 [00:23<00:01,  6.17it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:23<00:00,  8.37it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:24<00:00,  8.37it/s]
+                                                                       
+
+Training Results - Epoch: 21 Metrics: mse: 1.057, mae: 0.716, top1: 0.985, frac_mc: 0.884, loss: 0.013
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:24<00:01,  8.37it/s]
+                                                                      
+
+Validation Results - Epoch: 21 Metrics: mse: 0.896, mae: 0.664, top1: 0.980, frac_mc: 0.895, loss: 0.012
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:24<00:01,  8.37it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:25<00:01,  6.18it/s]
+ITERATION - loss: 0.02:  69%|######9   | 9/13 [00:25<00:00,  8.38it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:25<00:00,  8.38it/s]
+                                                                       
+
+Training Results - Epoch: 22 Metrics: mse: 1.045, mae: 0.671, top1: 0.985, frac_mc: 0.885, loss: 0.012
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:25<00:01,  8.38it/s]
+                                                                      
+
+Validation Results - Epoch: 22 Metrics: mse: 0.912, mae: 0.626, top1: 0.980, frac_mc: 0.894, loss: 0.011
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:26<00:01,  8.38it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:26<00:01,  6.18it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:26<00:00,  8.38it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:26<00:00,  8.38it/s]
+                                                                       
+
+Training Results - Epoch: 23 Metrics: mse: 0.965, mae: 0.673, top1: 0.985, frac_mc: 0.884, loss: 0.012
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:27<00:01,  8.38it/s]
+                                                                      
+
+Validation Results - Epoch: 23 Metrics: mse: 0.847, mae: 0.627, top1: 0.980, frac_mc: 0.895, loss: 0.011
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:27<00:01,  8.38it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:27<00:01,  6.18it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:27<00:00,  8.39it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:27<00:00,  8.39it/s]
+                                                                       
+
+Training Results - Epoch: 24 Metrics: mse: 1.017, mae: 0.639, top1: 0.985, frac_mc: 0.885, loss: 0.012
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:28<00:01,  8.39it/s]
+                                                                      
+
+Validation Results - Epoch: 24 Metrics: mse: 0.895, mae: 0.592, top1: 0.980, frac_mc: 0.893, loss: 0.011
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:28<00:01,  8.39it/s]
+ITERATION - loss: 0.02:  31%|###       | 4/13 [00:28<00:01,  6.20it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:28<00:00,  8.40it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:28<00:00,  8.40it/s]
+                                                                       
+
+Training Results - Epoch: 25 Metrics: mse: 0.827, mae: 0.662, top1: 0.985, frac_mc: 0.883, loss: 0.011
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:29<00:01,  8.40it/s]
+                                                                      
+
+Validation Results - Epoch: 25 Metrics: mse: 0.738, mae: 0.622, top1: 0.980, frac_mc: 0.894, loss: 0.010
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:29<00:01,  8.40it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:29<00:01,  6.19it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:29<00:00,  8.39it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:29<00:00,  8.39it/s]
+                                                                       
+
+Training Results - Epoch: 26 Metrics: mse: 0.800, mae: 0.631, top1: 0.985, frac_mc: 0.884, loss: 0.011
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:30<00:01,  8.39it/s]
+                                                                      
+
+Validation Results - Epoch: 26 Metrics: mse: 0.723, mae: 0.589, top1: 0.980, frac_mc: 0.894, loss: 0.010
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:30<00:01,  8.39it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:30<00:01,  6.11it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:30<00:00,  8.29it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:30<00:00,  8.29it/s]
+                                                                       
+
+Training Results - Epoch: 27 Metrics: mse: 0.744, mae: 0.601, top1: 0.985, frac_mc: 0.883, loss: 0.010
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:31<00:01,  8.29it/s]
+                                                                      
+
+Validation Results - Epoch: 27 Metrics: mse: 0.692, mae: 0.573, top1: 0.980, frac_mc: 0.894, loss: 0.010
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:31<00:01,  8.29it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:31<00:01,  6.16it/s]
+ITERATION - loss: 0.02:  69%|######9   | 9/13 [00:31<00:00,  8.34it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:32<00:00,  8.34it/s]
+                                                                       
+
+Training Results - Epoch: 28 Metrics: mse: 0.721, mae: 0.562, top1: 0.985, frac_mc: 0.884, loss: 0.010
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:32<00:01,  8.34it/s]
+                                                                      
+
+Validation Results - Epoch: 28 Metrics: mse: 0.709, mae: 0.544, top1: 0.980, frac_mc: 0.894, loss: 0.010
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:32<00:01,  8.34it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:33<00:01,  6.16it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:33<00:00,  8.35it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:33<00:00,  8.35it/s]
+                                                                       
+
+Training Results - Epoch: 29 Metrics: mse: 0.926, mae: 0.567, top1: 0.985, frac_mc: 0.884, loss: 0.012
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:33<00:01,  8.35it/s]
+                                                                      
+
+Validation Results - Epoch: 29 Metrics: mse: 0.857, mae: 0.535, top1: 0.980, frac_mc: 0.894, loss: 0.011
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:34<00:01,  8.35it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:34<00:01,  6.18it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:34<00:00,  8.38it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:34<00:00,  8.38it/s]
+                                                                       
+
+Training Results - Epoch: 30 Metrics: mse: 0.779, mae: 0.558, top1: 0.985, frac_mc: 0.885, loss: 0.010
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:35<00:01,  8.38it/s]
+                                                                      
+
+Validation Results - Epoch: 30 Metrics: mse: 0.746, mae: 0.538, top1: 0.980, frac_mc: 0.894, loss: 0.010
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:35<00:01,  8.38it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:35<00:01,  6.19it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:35<00:00,  8.39it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:35<00:00,  8.39it/s]
+                                                                       
+
+Training Results - Epoch: 31 Metrics: mse: 0.713, mae: 0.573, top1: 0.985, frac_mc: 0.884, loss: 0.012
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:36<00:01,  8.39it/s]
+                                                                      
+
+Validation Results - Epoch: 31 Metrics: mse: 0.745, mae: 0.568, top1: 0.980, frac_mc: 0.892, loss: 0.012
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:36<00:01,  8.39it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:36<00:01,  6.20it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:36<00:00,  8.40it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:36<00:00,  8.40it/s]
+                                                                       
+
+Training Results - Epoch: 32 Metrics: mse: 0.742, mae: 0.548, top1: 0.985, frac_mc: 0.885, loss: 0.011
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:37<00:01,  8.40it/s]
+                                                                      
+
+Validation Results - Epoch: 32 Metrics: mse: 0.724, mae: 0.530, top1: 0.980, frac_mc: 0.892, loss: 0.010
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:37<00:01,  8.40it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:37<00:01,  6.19it/s]
+ITERATION - loss: 0.01:  77%|#######6  | 10/13 [00:37<00:00,  8.39it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:37<00:00,  8.39it/s]
+                                                                       
+
+Training Results - Epoch: 33 Metrics: mse: 0.715, mae: 0.543, top1: 0.985, frac_mc: 0.884, loss: 0.010
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:38<00:01,  8.39it/s]
+                                                                      
+
+Validation Results - Epoch: 33 Metrics: mse: 0.677, mae: 0.516, top1: 0.980, frac_mc: 0.893, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:38<00:01,  8.39it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:38<00:01,  6.26it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:38<00:00,  8.48it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:38<00:00,  8.48it/s]
+                                                                       
+
+Training Results - Epoch: 34 Metrics: mse: 0.620, mae: 0.530, top1: 0.985, frac_mc: 0.883, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:39<00:01,  8.48it/s]
+                                                                      
+
+Validation Results - Epoch: 34 Metrics: mse: 0.677, mae: 0.519, top1: 0.980, frac_mc: 0.892, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:39<00:01,  8.48it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:39<00:01,  6.23it/s]
+ITERATION - loss: 0.01:  77%|#######6  | 10/13 [00:39<00:00,  8.47it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:40<00:00,  8.47it/s]
+                                                                       
+
+Training Results - Epoch: 35 Metrics: mse: 0.708, mae: 0.513, top1: 0.985, frac_mc: 0.885, loss: 0.010
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:40<00:01,  8.47it/s]
+                                                                      
+
+Validation Results - Epoch: 35 Metrics: mse: 0.720, mae: 0.495, top1: 0.980, frac_mc: 0.893, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:40<00:01,  8.47it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:41<00:01,  6.20it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:41<00:00,  8.40it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:41<00:00,  8.40it/s]
+                                                                       
+
+Training Results - Epoch: 36 Metrics: mse: 0.743, mae: 0.522, top1: 0.985, frac_mc: 0.886, loss: 0.010
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:41<00:01,  8.40it/s]
+                                                                      
+
+Validation Results - Epoch: 36 Metrics: mse: 0.727, mae: 0.502, top1: 0.980, frac_mc: 0.893, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:42<00:01,  8.40it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:42<00:01,  6.19it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:42<00:00,  8.39it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:42<00:00,  8.39it/s]
+                                                                       
+
+Training Results - Epoch: 37 Metrics: mse: 0.570, mae: 0.549, top1: 0.985, frac_mc: 0.884, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:43<00:01,  8.39it/s]
+                                                                      
+
+Validation Results - Epoch: 37 Metrics: mse: 0.572, mae: 0.523, top1: 0.980, frac_mc: 0.893, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:43<00:01,  8.39it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:43<00:01,  6.18it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:43<00:00,  8.38it/s]
+ITERATION - loss: 0.00: 100%|##########| 13/13 [00:43<00:00,  8.38it/s]
+                                                                       
+
+Training Results - Epoch: 38 Metrics: mse: 0.655, mae: 0.572, top1: 0.985, frac_mc: 0.883, loss: 0.010
+
+ITERATION - loss: 0.00:   0%|          | 0/13 [00:44<00:01,  8.38it/s]
+                                                                      
+
+Validation Results - Epoch: 38 Metrics: mse: 0.720, mae: 0.552, top1: 0.980, frac_mc: 0.881, loss: 0.010
+
+ITERATION - loss: 0.00:   0%|          | 0/13 [00:44<00:01,  8.38it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:44<00:01,  6.20it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:44<00:00,  8.39it/s]
+ITERATION - loss: 0.00: 100%|##########| 13/13 [00:44<00:00,  8.39it/s]
+                                                                       
+
+Training Results - Epoch: 39 Metrics: mse: 0.661, mae: 0.516, top1: 0.985, frac_mc: 0.885, loss: 0.009
+
+ITERATION - loss: 0.00:   0%|          | 0/13 [00:45<00:01,  8.39it/s]
+                                                                      
+
+Validation Results - Epoch: 39 Metrics: mse: 0.650, mae: 0.494, top1: 0.980, frac_mc: 0.893, loss: 0.009
+
+ITERATION - loss: 0.00:   0%|          | 0/13 [00:45<00:01,  8.39it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:45<00:01,  6.20it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:45<00:00,  8.40it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:45<00:00,  8.40it/s]
+                                                                       
+
+Training Results - Epoch: 40 Metrics: mse: 0.548, mae: 0.514, top1: 0.985, frac_mc: 0.885, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:46<00:01,  8.40it/s]
+                                                                      
+
+Validation Results - Epoch: 40 Metrics: mse: 0.565, mae: 0.500, top1: 0.980, frac_mc: 0.893, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:46<00:01,  8.40it/s]
+ITERATION - loss: 0.02:  31%|###       | 4/13 [00:46<00:01,  6.19it/s]
+ITERATION - loss: 0.01:  77%|#######6  | 10/13 [00:46<00:00,  8.40it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:46<00:00,  8.40it/s]
+                                                                       
+
+Training Results - Epoch: 41 Metrics: mse: 0.525, mae: 0.512, top1: 0.985, frac_mc: 0.885, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:47<00:01,  8.40it/s]
+                                                                      
+
+Validation Results - Epoch: 41 Metrics: mse: 0.573, mae: 0.503, top1: 0.980, frac_mc: 0.892, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:47<00:01,  8.40it/s]
+ITERATION - loss: 0.02:  31%|###       | 4/13 [00:47<00:01,  6.26it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:48<00:00,  8.48it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:48<00:00,  8.48it/s]
+                                                                       
+
+Training Results - Epoch: 42 Metrics: mse: 0.639, mae: 0.552, top1: 0.985, frac_mc: 0.883, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:48<00:01,  8.48it/s]
+                                                                      
+
+Validation Results - Epoch: 42 Metrics: mse: 0.630, mae: 0.526, top1: 0.980, frac_mc: 0.892, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:48<00:01,  8.48it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:49<00:01,  6.25it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:49<00:00,  8.48it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:49<00:00,  8.48it/s]
+                                                                       
+
+Training Results - Epoch: 43 Metrics: mse: 0.630, mae: 0.527, top1: 0.985, frac_mc: 0.883, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:49<00:01,  8.48it/s]
+                                                                      
+
+Validation Results - Epoch: 43 Metrics: mse: 0.666, mae: 0.508, top1: 0.980, frac_mc: 0.892, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:50<00:01,  8.48it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:50<00:01,  6.13it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:50<00:00,  8.32it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:50<00:00,  8.32it/s]
+                                                                       
+
+Training Results - Epoch: 44 Metrics: mse: 0.574, mae: 0.523, top1: 0.985, frac_mc: 0.882, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:51<00:01,  8.32it/s]
+                                                                      
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:51<00:01,  8.32it/s]
+Validation Results - Epoch: 44 Metrics: mse: 0.601, mae: 0.502, top1: 0.980, frac_mc: 0.892, loss: 0.009
+
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:51<00:01,  6.16it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:51<00:00,  8.35it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:51<00:00,  8.35it/s]
+                                                                       
+
+Training Results - Epoch: 45 Metrics: mse: 0.592, mae: 0.509, top1: 0.985, frac_mc: 0.883, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:52<00:01,  8.35it/s]
+                                                                      
+
+Validation Results - Epoch: 45 Metrics: mse: 0.605, mae: 0.486, top1: 0.980, frac_mc: 0.892, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:52<00:01,  8.35it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:52<00:01,  6.18it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:52<00:00,  8.38it/s]
+ITERATION - loss: 0.00: 100%|##########| 13/13 [00:52<00:00,  8.38it/s]
+                                                                       
+
+Training Results - Epoch: 46 Metrics: mse: 0.566, mae: 0.506, top1: 0.985, frac_mc: 0.883, loss: 0.009
+
+ITERATION - loss: 0.00:   0%|          | 0/13 [00:53<00:01,  8.38it/s]
+                                                                      
+
+Validation Results - Epoch: 46 Metrics: mse: 0.589, mae: 0.484, top1: 0.980, frac_mc: 0.892, loss: 0.009
+
+ITERATION - loss: 0.00:   0%|          | 0/13 [00:53<00:01,  8.38it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:53<00:01,  6.19it/s]
+ITERATION - loss: 0.01:  77%|#######6  | 10/13 [00:53<00:00,  8.47it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:53<00:00,  8.47it/s]
+                                                                       
+
+Training Results - Epoch: 47 Metrics: mse: 0.550, mae: 0.500, top1: 0.985, frac_mc: 0.884, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:54<00:01,  8.47it/s]
+                                                                      
+
+Validation Results - Epoch: 47 Metrics: mse: 0.570, mae: 0.478, top1: 0.980, frac_mc: 0.892, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:54<00:01,  8.47it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:54<00:01,  6.32it/s]
+ITERATION - loss: 0.01:  77%|#######6  | 10/13 [00:54<00:00,  8.58it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:54<00:00,  8.58it/s]
+                                                                       
+
+Training Results - Epoch: 48 Metrics: mse: 0.520, mae: 0.506, top1: 0.985, frac_mc: 0.882, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:55<00:01,  8.58it/s]
+                                                                      
+
+Validation Results - Epoch: 48 Metrics: mse: 0.560, mae: 0.486, top1: 0.980, frac_mc: 0.890, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:55<00:01,  8.58it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:55<00:01,  6.33it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:55<00:00,  8.57it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:56<00:00,  8.57it/s]
+                                                                       
+
+Training Results - Epoch: 49 Metrics: mse: 0.574, mae: 0.494, top1: 0.985, frac_mc: 0.883, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:56<00:01,  8.57it/s]
+                                                                      
+
+Validation Results - Epoch: 49 Metrics: mse: 0.598, mae: 0.474, top1: 0.980, frac_mc: 0.890, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:56<00:01,  8.57it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:57<00:01,  6.26it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:57<00:00,  8.48it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:57<00:00,  8.48it/s]
+                                                                       
+
+Training Results - Epoch: 50 Metrics: mse: 0.502, mae: 0.510, top1: 0.985, frac_mc: 0.882, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:57<00:01,  8.48it/s]
+                                                                      
+
+Validation Results - Epoch: 50 Metrics: mse: 0.531, mae: 0.489, top1: 0.980, frac_mc: 0.890, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:58<00:01,  8.48it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:58<00:01,  6.24it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:58<00:00,  8.46it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:58<00:00,  8.46it/s]
+                                                                       
+
+Training Results - Epoch: 51 Metrics: mse: 0.498, mae: 0.514, top1: 0.985, frac_mc: 0.882, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:59<00:01,  8.46it/s]
+                                                                      
+
+Validation Results - Epoch: 51 Metrics: mse: 0.535, mae: 0.494, top1: 0.980, frac_mc: 0.890, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [00:59<00:01,  8.46it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [00:59<00:01,  6.21it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [00:59<00:00,  8.41it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [00:59<00:00,  8.41it/s]
+                                                                       
+
+Training Results - Epoch: 52 Metrics: mse: 0.500, mae: 0.519, top1: 0.985, frac_mc: 0.883, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:00<00:01,  8.41it/s]
+                                                                      
+
+Validation Results - Epoch: 52 Metrics: mse: 0.532, mae: 0.498, top1: 0.980, frac_mc: 0.890, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:00<00:01,  8.41it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:00<00:01,  6.09it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:00<00:00,  8.26it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:00<00:00,  8.26it/s]
+                                                                       
+
+Training Results - Epoch: 53 Metrics: mse: 0.493, mae: 0.519, top1: 0.985, frac_mc: 0.882, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:01<00:01,  8.26it/s]
+                                                                      
+
+Validation Results - Epoch: 53 Metrics: mse: 0.520, mae: 0.498, top1: 0.980, frac_mc: 0.890, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:01<00:01,  8.26it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:01<00:01,  6.14it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:01<00:00,  8.31it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:01<00:00,  8.31it/s]
+                                                                       
+
+Training Results - Epoch: 54 Metrics: mse: 0.506, mae: 0.499, top1: 0.985, frac_mc: 0.883, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:02<00:01,  8.31it/s]
+                                                                      
+
+Validation Results - Epoch: 54 Metrics: mse: 0.535, mae: 0.478, top1: 0.980, frac_mc: 0.890, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:02<00:01,  8.31it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:02<00:01,  6.18it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:02<00:00,  8.38it/s]
+ITERATION - loss: 0.02: 100%|##########| 13/13 [01:02<00:00,  8.38it/s]
+                                                                       
+
+Training Results - Epoch: 55 Metrics: mse: 0.502, mae: 0.497, top1: 0.985, frac_mc: 0.883, loss: 0.008
+
+ITERATION - loss: 0.02:   0%|          | 0/13 [01:03<00:01,  8.38it/s]
+                                                                      
+
+Validation Results - Epoch: 55 Metrics: mse: 0.539, mae: 0.478, top1: 0.980, frac_mc: 0.890, loss: 0.008
+
+ITERATION - loss: 0.02:   0%|          | 0/13 [01:03<00:01,  8.38it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:03<00:01,  6.19it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:04<00:00,  8.39it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:04<00:00,  8.39it/s]
+                                                                       
+
+Training Results - Epoch: 56 Metrics: mse: 0.534, mae: 0.485, top1: 0.985, frac_mc: 0.884, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:04<00:01,  8.39it/s]
+                                                                      
+
+Validation Results - Epoch: 56 Metrics: mse: 0.544, mae: 0.465, top1: 0.980, frac_mc: 0.890, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:04<00:01,  8.39it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:05<00:01,  6.19it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:05<00:00,  8.39it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:05<00:00,  8.39it/s]
+                                                                       
+
+Training Results - Epoch: 57 Metrics: mse: 0.626, mae: 0.487, top1: 0.985, frac_mc: 0.885, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:05<00:01,  8.39it/s]
+                                                                      
+
+Validation Results - Epoch: 57 Metrics: mse: 0.639, mae: 0.468, top1: 0.980, frac_mc: 0.890, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:06<00:01,  8.39it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:06<00:01,  6.19it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:06<00:00,  8.39it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:06<00:00,  8.39it/s]
+                                                                       
+
+Training Results - Epoch: 58 Metrics: mse: 0.638, mae: 0.488, top1: 0.985, frac_mc: 0.884, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:07<00:01,  8.39it/s]
+                                                                      
+
+Validation Results - Epoch: 58 Metrics: mse: 0.661, mae: 0.470, top1: 0.980, frac_mc: 0.890, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:07<00:01,  8.39it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:07<00:01,  6.19it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:07<00:00,  8.40it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:07<00:00,  8.40it/s]
+                                                                       
+
+Training Results - Epoch: 59 Metrics: mse: 0.601, mae: 0.484, top1: 0.985, frac_mc: 0.884, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:08<00:01,  8.40it/s]
+                                                                      
+
+Validation Results - Epoch: 59 Metrics: mse: 0.630, mae: 0.467, top1: 0.980, frac_mc: 0.890, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:08<00:01,  8.40it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:08<00:01,  6.19it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:08<00:00,  8.40it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:08<00:00,  8.40it/s]
+                                                                       
+
+Training Results - Epoch: 60 Metrics: mse: 0.488, mae: 0.498, top1: 0.985, frac_mc: 0.883, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:09<00:01,  8.40it/s]
+                                                                      
+
+Validation Results - Epoch: 60 Metrics: mse: 0.519, mae: 0.478, top1: 0.980, frac_mc: 0.890, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:09<00:01,  8.40it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:09<00:01,  6.21it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:09<00:00,  8.41it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:09<00:00,  8.41it/s]
+                                                                       
+
+Training Results - Epoch: 61 Metrics: mse: 0.485, mae: 0.499, top1: 0.985, frac_mc: 0.883, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:10<00:01,  8.41it/s]
+                                                                      
+
+Validation Results - Epoch: 61 Metrics: mse: 0.525, mae: 0.481, top1: 0.980, frac_mc: 0.890, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:10<00:01,  8.41it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:10<00:01,  6.07it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:10<00:00,  8.25it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:10<00:00,  8.25it/s]
+                                                                       
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:11<00:01,  8.25it/s]
+Training Results - Epoch: 62 Metrics: mse: 0.479, mae: 0.495, top1: 0.985, frac_mc: 0.884, loss: 0.008
+
+                                                                      
+
+Validation Results - Epoch: 62 Metrics: mse: 0.517, mae: 0.477, top1: 0.980, frac_mc: 0.890, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:11<00:01,  8.25it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:11<00:01,  6.13it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:12<00:00,  8.31it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:12<00:00,  8.31it/s]
+                                                                       
+
+Training Results - Epoch: 63 Metrics: mse: 0.487, mae: 0.491, top1: 0.985, frac_mc: 0.884, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:12<00:01,  8.31it/s]
+                                                                      
+
+Validation Results - Epoch: 63 Metrics: mse: 0.529, mae: 0.475, top1: 0.980, frac_mc: 0.890, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:13<00:01,  8.31it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:13<00:01,  6.16it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:13<00:00,  8.35it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:13<00:00,  8.35it/s]
+                                                                       
+
+Training Results - Epoch: 64 Metrics: mse: 0.481, mae: 0.498, top1: 0.985, frac_mc: 0.883, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:13<00:01,  8.35it/s]
+                                                                      
+
+Validation Results - Epoch: 64 Metrics: mse: 0.497, mae: 0.476, top1: 0.980, frac_mc: 0.890, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:14<00:01,  8.35it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:14<00:01,  6.17it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:14<00:00,  8.37it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:14<00:00,  8.37it/s]
+                                                                       
+
+Training Results - Epoch: 65 Metrics: mse: 0.479, mae: 0.488, top1: 0.985, frac_mc: 0.884, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:15<00:01,  8.37it/s]
+                                                                      
+
+Validation Results - Epoch: 65 Metrics: mse: 0.512, mae: 0.471, top1: 0.980, frac_mc: 0.890, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:15<00:01,  8.37it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:15<00:01,  6.20it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:15<00:00,  8.40it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:15<00:00,  8.40it/s]
+                                                                       
+
+Training Results - Epoch: 66 Metrics: mse: 0.470, mae: 0.495, top1: 0.985, frac_mc: 0.883, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:16<00:01,  8.40it/s]
+                                                                      
+
+Validation Results - Epoch: 66 Metrics: mse: 0.507, mae: 0.478, top1: 0.980, frac_mc: 0.890, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:16<00:01,  8.40it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:16<00:01,  6.20it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:16<00:00,  8.41it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:16<00:00,  8.41it/s]
+                                                                       
+
+Training Results - Epoch: 67 Metrics: mse: 0.467, mae: 0.509, top1: 0.985, frac_mc: 0.883, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:17<00:01,  8.41it/s]
+                                                                      
+
+Validation Results - Epoch: 67 Metrics: mse: 0.513, mae: 0.495, top1: 0.980, frac_mc: 0.890, loss: 0.009
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:17<00:01,  8.41it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:17<00:01,  6.22it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:17<00:00,  8.42it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:17<00:00,  8.42it/s]
+                                                                       
+
+Training Results - Epoch: 68 Metrics: mse: 0.481, mae: 0.488, top1: 0.985, frac_mc: 0.883, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:18<00:01,  8.42it/s]
+                                                                      
+
+Validation Results - Epoch: 68 Metrics: mse: 0.526, mae: 0.472, top1: 0.980, frac_mc: 0.890, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:18<00:01,  8.42it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:18<00:01,  6.21it/s]
+ITERATION - loss: 0.01:  77%|#######6  | 10/13 [01:18<00:00,  8.42it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:18<00:00,  8.42it/s]
+                                                                       
+
+Training Results - Epoch: 69 Metrics: mse: 0.466, mae: 0.484, top1: 0.985, frac_mc: 0.884, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:19<00:01,  8.42it/s]
+                                                                      
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:19<00:01,  8.42it/s]
+Validation Results - Epoch: 69 Metrics: mse: 0.504, mae: 0.469, top1: 0.980, frac_mc: 0.890, loss: 0.008
+
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:19<00:01,  6.27it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:20<00:00,  8.49it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:20<00:00,  8.49it/s]
+                                                                       
+
+Training Results - Epoch: 70 Metrics: mse: 0.473, mae: 0.493, top1: 0.985, frac_mc: 0.883, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:20<00:01,  8.49it/s]
+                                                                      
+
+Validation Results - Epoch: 70 Metrics: mse: 0.526, mae: 0.477, top1: 0.980, frac_mc: 0.890, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:21<00:01,  8.49it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:21<00:01,  6.09it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:21<00:00,  8.26it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:21<00:00,  8.26it/s]
+                                                                       
+
+Training Results - Epoch: 71 Metrics: mse: 0.468, mae: 0.489, top1: 0.985, frac_mc: 0.884, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:22<00:01,  8.26it/s]
+                                                                      
+
+Validation Results - Epoch: 71 Metrics: mse: 0.514, mae: 0.474, top1: 0.980, frac_mc: 0.890, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:22<00:01,  8.26it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:22<00:01,  6.14it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:22<00:00,  8.32it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:22<00:00,  8.32it/s]
+                                                                       
+
+Training Results - Epoch: 72 Metrics: mse: 0.466, mae: 0.485, top1: 0.985, frac_mc: 0.884, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:23<00:01,  8.32it/s]
+                                                                      
+
+Validation Results - Epoch: 72 Metrics: mse: 0.510, mae: 0.470, top1: 0.980, frac_mc: 0.890, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:23<00:01,  8.32it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:23<00:01,  6.16it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:23<00:00,  8.35it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:23<00:00,  8.35it/s]
+                                                                       
+
+Training Results - Epoch: 73 Metrics: mse: 0.460, mae: 0.489, top1: 0.985, frac_mc: 0.884, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:24<00:01,  8.35it/s]
+                                                                      
+
+Validation Results - Epoch: 73 Metrics: mse: 0.505, mae: 0.473, top1: 0.980, frac_mc: 0.890, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:24<00:01,  8.35it/s]
+ITERATION - loss: 0.01:  31%|###       | 4/13 [01:24<00:01,  6.18it/s]
+ITERATION - loss: 0.01:  69%|######9   | 9/13 [01:24<00:00,  8.37it/s]
+ITERATION - loss: 0.01: 100%|##########| 13/13 [01:24<00:00,  8.37it/s]
+                                                                       
+
+Training Results - Epoch: 74 Metrics: mse: 0.466, mae: 0.485, top1: 0.985, frac_mc: 0.884, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:25<00:01,  8.37it/s]
+                                                                      
+
+Validation Results - Epoch: 74 Metrics: mse: 0.513, mae: 0.470, top1: 0.980, frac_mc: 0.890, loss: 0.008
+
+ITERATION - loss: 0.01:   0%|          | 0/13 [01:25<00:01,  8.37it/s]
+                                                                      
+mse: 0.513
+mae: 0.470
+top1: 0.980
+frac_mc: 0.890
+loss: 0.008

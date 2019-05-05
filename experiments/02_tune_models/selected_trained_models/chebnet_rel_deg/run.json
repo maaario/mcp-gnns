@@ -1,0 +1,136 @@
+{
+  "artifacts": [
+    "model_state_dict.pt"
+  ],
+  "command": "train_and_evaluate",
+  "experiment": {
+    "base_dir": "/home/mario/master-thesis/prototype4_infrastructure/clique_finding_models",
+    "dependencies": [
+      "jsonpickle==0.9.6",
+      "numpy==1.16.2",
+      "pytorch-ignite==0.1.2",
+      "sacred==0.7.4",
+      "torch==1.0.1.post2",
+      "torch-geometric==1.1.2",
+      "tqdm==4.31.1"
+    ],
+    "mainfile": "experiment.py",
+    "name": "train and evaluate",
+    "repositories": [
+      {
+        "commit": "267d8fbe445638371dc049e9db938a093d05d26c",
+        "dirty": true,
+        "url": "git@gitlab.com:maaario/master-thesis.git"
+      },
+      {
+        "commit": "267d8fbe445638371dc049e9db938a093d05d26c",
+        "dirty": true,
+        "url": "git@gitlab.com:maaario/master-thesis.git"
+      },
+      {
+        "commit": "267d8fbe445638371dc049e9db938a093d05d26c",
+        "dirty": true,
+        "url": "git@gitlab.com:maaario/master-thesis.git"
+      },
+      {
+        "commit": "267d8fbe445638371dc049e9db938a093d05d26c",
+        "dirty": true,
+        "url": "git@gitlab.com:maaario/master-thesis.git"
+      },
+      {
+        "commit": "267d8fbe445638371dc049e9db938a093d05d26c",
+        "dirty": true,
+        "url": "git@gitlab.com:maaario/master-thesis.git"
+      },
+      {
+        "commit": "267d8fbe445638371dc049e9db938a093d05d26c",
+        "dirty": true,
+        "url": "git@gitlab.com:maaario/master-thesis.git"
+      }
+    ],
+    "sources": [
+      [
+        "__init__.py",
+        "_sources/__init___d41d8cd98f00b204e9800998ecf8427e.py"
+      ],
+      [
+        "experiment.py",
+        "_sources/experiment_7a59b045f71b54cf848ad5e3ce0317e0.py"
+      ],
+      [
+        "graph_dataset.py",
+        "_sources/graph_dataset_9b7b7280b7a1f5ee1dfc0d08e0fafd50.py"
+      ],
+      [
+        "metrics.py",
+        "_sources/metrics_ef4bf28db631bcacdc251d162be2623d.py"
+      ],
+      [
+        "models/__init__.py",
+        "_sources/__init___d41d8cd98f00b204e9800998ecf8427e.py"
+      ],
+      [
+        "models/model_utils.py",
+        "_sources/model_utils_2f9c6a20245eedffa4c2d573026c4885.py"
+      ]
+    ]
+  },
+  "heartbeat": "2019-04-20T12:42:12.596418",
+  "host": {
+    "ENV": {},
+    "cpu": "Intel(R) Xeon(R) CPU E5-2695 v4 @ 2.10GHz",
+    "gpus": {
+      "driver_version": "390.116",
+      "gpus": [
+        {
+          "model": "TITAN Xp",
+          "persistence_mode": false,
+          "total_memory": 12196
+        }
+      ]
+    },
+    "hostname": "cpu09",
+    "os": [
+      "Linux",
+      "Linux-4.15.0-46-generic-x86_64-with-Ubuntu-18.04-bionic"
+    ],
+    "python_version": "3.6.5"
+  },
+  "meta": {
+    "command": "train_and_evaluate",
+    "options": {
+      "--beat_interval": null,
+      "--capture": null,
+      "--comment": null,
+      "--debug": false,
+      "--enforce_clean": false,
+      "--file_storage": null,
+      "--force": false,
+      "--help": false,
+      "--loglevel": "WARNING",
+      "--mongo_db": null,
+      "--name": null,
+      "--pdb": false,
+      "--print_config": false,
+      "--priority": null,
+      "--queue": false,
+      "--sql": null,
+      "--tiny_db": null,
+      "--unobserved": false
+    }
+  },
+  "resources": [
+    [
+      "/home/mario/master-thesis/prototype4_infrastructure/experiments/26_tune_s2v/outputs/chebnet/all/data/processed/train.pt",
+      "outputs/chebnet/sacred/_resources/train_5f697257eb42a5a6809e4883135ba0d7.pt"
+    ],
+    [
+      "/home/mario/master-thesis/prototype4_infrastructure/experiments/26_tune_s2v/outputs/chebnet/all/data/processed/validate.pt",
+      "outputs/chebnet/sacred/_resources/validate_62723a2705b4dfd6edfe04a84fad11d8.pt"
+    ]
+  ],
+  "result": null,
+  "start_time": "2019-04-20T12:39:19.149135",
+  "status": "COMPLETED",
+  "stop_time": "2019-04-20T12:42:12.568230"
+}
