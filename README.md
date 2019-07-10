@@ -1,10 +1,12 @@
-# Solving Maximum Clique Problem Using Neural Networks
+# Solving the Maximum Clique Problem Using Neural Networks
 
 This repository contains all code necessary to reproduce the experiments described
-in my master thesis "Solving Maximum Clique Problem Using Neural Networks" where simpler
+in my master thesis "Solving the Maximum Clique Problem Using Neural Networks" where simpler
 Structure2Vec and ChebNet networks are first trained to predict the largest clique size in the
 neighbourhood of each vertex or to order vertices according to these values. In the following step,
 these networks are used as a branching rule in branch and bound algorithm.
+
+The thesis is available in [Comenius University archive](http://www.dcs.fmph.uniba.sk/diplomovky/registracia/Detail.php?id=445).
 
 Its main components are:
 * `generator` - generator of random graphs to serve as training examples
